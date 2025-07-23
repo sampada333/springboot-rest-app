@@ -1,0 +1,14 @@
+package com.oracle;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+
+}
+//06387ac2-cb08-4f45-9036-c8fbe140fc42
